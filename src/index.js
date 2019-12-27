@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './useContext/index';
+import App from './useCallback&useMemo&memo/index';
 // import App from './test';
 import 'antd/dist/antd.css'
 import * as serviceWorker from './serviceWorker';
